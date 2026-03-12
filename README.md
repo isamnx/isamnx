@@ -2,7 +2,7 @@
 
 **'Desenvolvedora Fullstack'**
 
-Me chamo Isabelli Muniz, estudante do 4º semestre de Análise e Desenvolvimento de Sistemas (ADS) na universidade Unipaulistana. Gosto de desenvolver projetos e estou sempre buscando me aprimorar na área da tecnologia, explorando novas ferramentas e aprendizados para crescer como profissional. 🚀
+Me chamo Isabelli Muniz, formada em  Análise e Desenvolvimento de Sistemas na universidade Unipaulistana. Gosto de desenvolver projetos e estou sempre buscando me aprimorar na área da tecnologia, explorando novas ferramentas e aprendizados para crescer como profissional. 🚀
 
 
 ### 🤖 Linguagens e Tecnologias
